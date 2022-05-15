@@ -28,3 +28,7 @@ Ctrl + C -- To get the most recent state
 
 $ source devel/setup.bash
 $ rosrun gem_gnss gem_gnss_pp_tracker_pid.py
+
+
+# Final Project Video
+https://youtu.be/eCgasHrPLh4
